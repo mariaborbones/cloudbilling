@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 My Billing
 ================================================================================
 
@@ -39,7 +38,7 @@ Client-side is based on:
 
 * [AngularJS](https://angularjs.org/)
 * [Bootstrap](http://getbootstrap.com/)
-* [ChartJS](http://www.chartjs.org/) 
+* [ChartJS](http://www.chartjs.org/)
 
 "My Billing App" is deployed in [Bluemix](http://bluemix.net)
 
@@ -142,13 +141,3 @@ In this case, the file has a single line:
 
 This indicates that the command `node server` should be run when the app is
 started.
-
----
-
-`README.md`
-
-This file!
-=======
-# ibmcloudbilling
-IBM Cloud Billing App
->>>>>>> e5da67137bbf6b1f286cb0b9b28c405511111dd4
