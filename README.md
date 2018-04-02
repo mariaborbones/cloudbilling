@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Billing
 ================================================================================
 
@@ -147,3 +148,7 @@ started.
 `README.md`
 
 This file!
+=======
+# ibmcloudbilling
+IBM Cloud Billing App
+>>>>>>> e5da67137bbf6b1f286cb0b9b28c405511111dd4
